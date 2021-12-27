@@ -1,0 +1,13 @@
+{
+    "name": "DemoGame01",
+    "version": "1.0.0",
+    "description": "demo game",
+    "scripts": {
+        "lite": "lite-server --port 10001",
+        "start": "npm run lite"
+    },
+    "author": "",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
